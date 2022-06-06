@@ -21,6 +21,8 @@ Once the Suspension_Coil.csv was converted into a data frame we created two subs
 
 ![ Deliverable 2 Picture 2](https://github.com/gonzalesbarrett/MechaCar_Statistical_Analysis/blob/main/Images/Deliv2_2.jpg)
 
+# Deliverable 3
+
 ## T-Tests on Suspension Coil
 
 The T-test for the suspension coils for all of the manufacturing lots tells us that they are not statistically different from the population mean. The p-value is .0603 which is not low enough for us to reject the null hypothesis.
@@ -32,6 +34,8 @@ Lot 2 has the same conclusion of Lot 1 with a p-value of .6702.
 Lot 3 tell us that they are slightly statistically different from the mean population with a p-value of .0417 we can also reject the null hypothesis. 
 
 ![ Deliverable 3 Picture 1](https://github.com/gonzalesbarrett/MechaCar_Statistical_Analysis/blob/main/Images/Deliv3_1.jpg)
+
+# Deliverable 4
 
 ## Study Design: MechaCar vs Competition
 
